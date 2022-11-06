@@ -1,5 +1,5 @@
 ### Hi there 👋
-:man_student: Im currently looking to learn more and gain more experience as a developer!
+:man_student: Im currently looking to learn more and gain more experience as a developer! </br>
 :nerd_face: TTRPG lover on the spare time 
 
 <!--
