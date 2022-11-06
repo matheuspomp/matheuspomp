@@ -1,4 +1,6 @@
 ### Hi there 👋
+:man_student: Im currently looking to learn more and gain more experience as a developer!
+:nerd_face: TTRPG lover on the spare time 
 
 <!--
 **matheuspomp/matheuspomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
